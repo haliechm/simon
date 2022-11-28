@@ -1,4 +1,8 @@
 # simon
+
+play it at:
+www.playsimon.fun
+
 work practice project competition
 
 using react and tailwind
