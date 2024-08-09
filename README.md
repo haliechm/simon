@@ -1,7 +1,7 @@
 # simon
 
 play it at:
-~~www.playsimon.fun~~ (no longer own url)
+[~~www.playsimon.fun~~ (no longer own url)](http://www.playsimon.fun.s3-website-us-east-1.amazonaws.com)
 
 work practice project competition
 
